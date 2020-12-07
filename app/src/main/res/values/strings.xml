@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">SNAP FITNESS</string>
+    <string name="_18_5_25_kg_m2">18.5 – 25 kg/m2</string>
+    <string name="normal_bmi_range">Normal BMI range:</string>
+    <string name="recalculate">Recalculate your BMI</string>
+    <string name="calculate">Calculate your BMI</string>
+    <string name="weight">WEIGHT</string>
+    <string name="age">AGE</string>
+    <string name="height">HEIGHT</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="plus">plus</string>
+    <string name="minus">minus</string>
+    <string name="_0cm">0cm</string>
+    <string name="_50">50</string>
+    <string name="_19">19</string>
+    <string name="your_result">Your Result</string>
+    <string name="your_age">Your Age</string>
+    <string name="cm">cm</string>
+
+    <string-array name="exercise_name">
+        <item>Lunges</item>
+        <item>Plank</item>
+        <item>Push-ups</item>
+        <item>Squats</item>
+        <item>Shoulder Strengthener</item>
+        <item>Floor Jack</item>
+        <item>Inner-Thigh Exercise</item>
+        <item>Hanging Core</item>
+        <item>Bicycle Crunches</item>
+        <item>Dumbell Pushups</item>
+
+    </string-array>
+
+    <string-array name="yoga_name">
+        <item>Chakrasana</item>
+        <item>Vajrasana</item>
+        <item>Uttanasana</item>
+        <item>Paschimottanasana</item>
+        <item>Uthita Hasta Padangustasana</item>
+        <item>Parighasana</item>
+        <item>Parivritta Janu Sirsasana</item>
+        <item>Parsvottanasana</item>
+        <item>Natarajasana</item>
+        <item>Pinch Mayurasana</item>
+
+    </string-array>
+</resources>
